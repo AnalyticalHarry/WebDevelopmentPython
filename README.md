@@ -1,3 +1,4 @@
 # Flask
 
-```pip install Flask```
+```bash
+pip install Flask```
